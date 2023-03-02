@@ -1,5 +1,5 @@
 # useful_functions.py
-# This is imported in import_local_scripts.py import_local_scripts
+# This is imported in import_local_scripts.py file
 
 def mean(num_list):
     return sum(num_list) / len(num_list)

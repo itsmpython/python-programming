@@ -1,4 +1,5 @@
 # import_local_scripts.py
+# Refer the 'useful_functions.py file for functions being imported
 import useful_functions as uf
 
 scores = [88, 92, 79, 93, 85]
