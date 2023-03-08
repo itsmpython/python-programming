@@ -1,3 +1,6 @@
+## Function to read string from a plain text file
+## This file refers the text file flying_circus_cast.txt file in the execution
+
 def create_cast_list(filename):
     cast_list = []
     #use with to open the file filename
