@@ -1,4 +1,4 @@
-#Python Tiny Tricks
+**Python Tiny Tricks**
 
 Python scripts that contain tips and tricks that are helpful with daily programming
 
